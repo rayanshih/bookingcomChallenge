@@ -19,13 +19,13 @@ const Navbar = ({ type }) => {
                 <div className="lineOne">
                     <div className="left">
                         <Link to="/" className='logo'>
-                            SAM.BOOKING
+                            RAYAN.BOOKING
                         </Link>
 
                     </div>
                     <div className="right">
                         <button className='navButtonFlag' />
-                        <button className="navButtonNotif">使用webpack測試</button>
+                        <button className="navButtonNotif">using webpack test</button>
                         {type == "auth" ? <></> :
                             <>
                                 {user ? 

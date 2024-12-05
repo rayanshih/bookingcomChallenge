@@ -46,7 +46,7 @@ const handleSearchBarSubmit =()=>{
           尋找下趟住宿
         </h1>
         <p className="headerDes">搜尋飯店、民宿及其他住宿類型的優惠…
-          <br />Booking.com clone挑戰（為SamKo Demo使用不為盈利）</p>
+          <br />Booking.com (non profit demo)</p>
         <div className="headerSearchBar">
           <div className="SearchBarItem">
             <FontAwesomeIcon icon={faBed} />

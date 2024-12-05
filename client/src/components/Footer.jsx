@@ -18,7 +18,7 @@ const Footer = () => {
                 </div>
                     <div className="checktext">
                         <input type="checkbox" name="checkbox" id="checkbox" />
-                        請發送 Booking.com 免費 App 下載連結給我！
+                        請發送 Booking.com 免費 App
                     </div>
             </div>
             <div className="subcontainer">
