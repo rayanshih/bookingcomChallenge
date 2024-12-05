@@ -28,3 +28,4 @@ export const verifyAdmin = (req, res, next) => {
         //如果是管理員就往下，代表管理員token認證成功
         else { next(errorMessage(403, "你沒有管理員權限")) }
     })
+}
