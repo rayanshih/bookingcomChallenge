@@ -31,7 +31,7 @@
                 .roomTitle {
                     margin: 10px 0px;
                     justify-content: space-around;
-                    background-color: rgb(53, 164, 127);
+                    background-color: rgb(43, 244, 255);
                     color: white;
                     padding: 5px 2px;
                     border-radius: 2px;
@@ -79,11 +79,11 @@
                     .reservationbtn {
                         display: flex;
                         border-radius: 2px;
-                        color: rgb(53, 164, 127);
+                        color: rgb(43, 244, 255);
                         background-color: white;
                         align-items: center;
                         justify-content: center;
-                        border: 1px solid rgb(53, 164, 127);
+                        border: 1px solid rgb(43, 244, 255);
                         cursor: pointer;
                         &:hover {
                             background-color: rgba(53, 164, 127, 0.1);

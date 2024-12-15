@@ -15,11 +15,11 @@
     gap: 3px;
     button {
         border: none;
-        background-color: rgba(53, 164, 127, 0.5);
+        background-color: rgba(52, 231, 255, 0.5);
         padding: 10px 20px;
         font-size: 16px;
         border-radius: 2px;
-        color: rgb(36, 104, 81);
+        color: rgb(255, 255, 255);
         &:hover {
             color: black;
         }
@@ -52,7 +52,7 @@
         }
         .recommend {
             vertical-align: bottom; //以文字為主向下對齊就不使用middle了
-            background-color: #cbe5d8;
+            background-color: #cbe4e5;
             font-size: 12px;
             border-radius: 15px;
             padding: 5px 10px 5px 0px; //0px是為了讓svg小球的下層左邊的區塊內縮
@@ -108,14 +108,14 @@
         display: flex;
         flex-direction: column;
         gap: 15px;
-        background-color: rgba(53, 164, 127, 0.5);
+        background-color: rgba(52, 231, 255, 0.5);
         button {
             width: 200px;
             color: white;
             font-size: 20px;
             padding: 5px 10px;
             border: none;
-            background-color: rgb(53, 164, 127);
+            background-color: rgb(43, 244, 255);
             border-radius: 2px;
             &:hover {
                 color: black;
@@ -201,7 +201,7 @@
     align-items: center;
     font-size: 16px;
     svg {
-        color: green;
+        color: rgb(0, 126, 128);
     }
     .wifi {
         font-size: 14px;

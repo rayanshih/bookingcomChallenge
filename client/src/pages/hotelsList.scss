@@ -10,7 +10,7 @@
     }
 }
 .listSearch {
-    background-color: #ffc489;
+    background-color: #f8bfac;
     padding: 5px;
     border-radius: 2px;
     position: sticky;
@@ -18,7 +18,7 @@
     top: 10px;
     .searchTitle {
         color: black;
-        background-color: #fd8915c6;
+        background-color: #fd8a3ec6;
         padding: 10px 10px;
         border-radius: 1px;
         font-size: 20px;
@@ -46,10 +46,10 @@
         border: none;
         font-size: 20px;
         color: #fff;
-        background-color: rgb(53, 164, 127);
+        background-color: rgb(53, 158, 164);
         cursor: pointer;
         &:hover{
-            background-color: rgb(15, 130, 92); 
+            background-color: rgb(15, 124, 130); 
         }
     }
 }
